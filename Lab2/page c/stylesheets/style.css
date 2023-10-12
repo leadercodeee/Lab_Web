@@ -1,0 +1,25 @@
+body{
+    padding : 0;
+    font-family: Tahoma,Arial,sans-serif;
+}
+a,p{
+
+}
+.section_header_2_dark{
+    height : 95px;
+    background-color: black;
+}
+#section_header_2_dark .navbar-header{
+    width : auto;
+    float : left;
+    padding-top: 25px;
+}
+#section_header_2_dark .navbar-header .img{
+    width : 170px;
+}
+#section_header_2_dark .navbar-header .navbar-toggle{
+    display: none;
+}
+#section_header_2_dark #navbar-collapse-02{
+
+}

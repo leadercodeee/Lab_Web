@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="715f6a2a-27f8-476b-8579-ec578ff4958a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2WKNK5AgZVYVPHUJl5KggF3Ff5z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/NAM/OneDrive/Desktop/LTWeb/lab4",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\NAM\OneDrive\Desktop\LTWeb\Lab3\image" />
+      <recent name="C:\Users\NAM\OneDrive\Desktop\LTWeb\Lab3\ideas" />
+      <recent name="C:\Users\NAM\OneDrive\Desktop\LTWeb\Lab3\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="715f6a2a-27f8-476b-8579-ec578ff4958a" name="Changes" comment="" />
+      <created>1696477246281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696477246281</updated>
+      <workItem from="1696477247271" duration="6576000" />
+      <workItem from="1696499919228" duration="596000" />
+      <workItem from="1696524684745" duration="3000" />
+      <workItem from="1696525291441" duration="80000" />
+      <workItem from="1696528155774" duration="15000" />
+      <workItem from="1696552539349" duration="6730000" />
+      <workItem from="1696840120625" duration="631000" />
+      <workItem from="1696955211146" duration="5205000" />
+      <workItem from="1697013571347" duration="2248000" />
+      <workItem from="1697028696339" duration="12373000" />
+      <workItem from="1697080486569" duration="10000" />
+      <workItem from="1697080545098" duration="15000" />
+      <workItem from="1697080805156" duration="23000" />
+      <workItem from="1697080998837" duration="5000" />
+      <workItem from="1697081268320" duration="10000" />
+      <workItem from="1697098333976" duration="616000" />
+      <workItem from="1697099024717" duration="1706000" />
+      <workItem from="1697101079779" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

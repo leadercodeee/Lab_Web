@@ -1,0 +1,181 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    font-family: Tahoma, Arial, sans-serif;
+}
+p, ul, li{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style-type: none;
+}
+#container{
+    width: 1100px;
+    margin: auto;
+}
+#container nav ul.menu{
+    background: #eeeeee;
+    overflow: auto;
+    border-bottom: solid 2px #8b0000 ;
+    border-left: solid 6px #8b0000;
+}
+#container nav ul.menu li.item:hover{
+    background: #8b0000;
+    color: white;
+}
+#container nav ul.menu li.item{
+    float: left;
+    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    cursor: pointer;
+    font-size: 120%;
+}
+#container nav ul.menu li.item ul.sub-menu{
+    position: absolute;
+    overflow: auto;
+    background: #eeeeee;
+    display: none;
+}
+#container nav ul.menu li.item:hover ul.sub-menu{
+    display: block;
+    margin-top: 22px;
+    margin-left: -10px;
+}
+#container nav ul.menu li.item ul.sub-menu li.item{
+    color: black;
+    float: none;
+}
+/* Form 1
+-------------------------------------------------------
+ */
+.contact-box{
+    position: absolute;
+    padding: 10px ;
+    border-style: solid ;
+    border-radius: 20px;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width: 350px;
+    height: 420px;
+}
+h2{
+    margin:0;
+    padding:0 0 20px;
+    color: black;
+    text-align: center;
+}
+.contact-box p{
+    margin: 0;
+    padding:0;
+    font-weight: bold;
+    color: black;
+}
+.text-area{
+    height: 150px;
+    padding-top: 10px;
+}
+/* --------------Form2----------------------> */
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    font-family: Arial, Tahoma, sans-serif;
+}
+#background_img{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+#content{
+    border: none;
+    box-shadow: 0 0 2px rgba(0,0,0,0.3);
+    width: 335px;
+    height: 600px;
+    margin: auto;
+    margin-top: 45px;
+    background-color: white;
+    padding-top: 70px;
+    border-radius: 20px;
+    text-align: center;
+}
+#sign_in_text{
+    font-size: 24px;
+    color: hsl(286.96deg 15.65% 28.82%);
+}
+#form{
+    margin-top: 40px;
+}
+#pass{
+    margin-top: 15px;
+}
+.input::placeholder{
+    color: hsl(286.96deg 15.65% 28.82%);
+    text-indent: 20px;
+}
+.input{
+    width: 245px;
+    height: 55px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 0 2px rgba(0,0,0,0.3);
+    cursor: pointer;
+}
+#button_sign_in{
+    margin-top: 22px;
+    width: 135px;
+    height: 40px;
+    border: none;
+    box-shadow: 0 0 2px rgba(0,0,0,0.3);
+    background-color: hsl(288.39deg 59.62% 59.22%);
+    color: white;
+    border-radius: 20px;
+}
+#other_login_text{
+    margin-top: 55px;
+    opacity: 0.5;
+}
+.sign_in_other{
+    margin-top: 25px;
+    border-radius: 50%;
+    height: 40px;
+    width: 45px;
+    margin-inline: 5px;
+    background-color: white;
+    border: none;
+    box-shadow: 0 0 2px rgba(0,0,0,0.3);
+}
+.sign_in_other i{
+    font-size: 130%;
+}
+#sign_up_text{
+    margin-top: 100px;
+    color: hsl(286.96deg 15.65% 28.82%);
+}
+
+
+
+
+
+
+/* --------------Form3----------------------> */
+.form3{
+    width:350px;
+    height:450px;
+    display: flex;
+    flex-direction: row;
+    backdrop-filter: blur(5px);
+    border: 1px solid white;
+    border-radius: 5px;
+    align-items: center;
+
+}
+
+
+

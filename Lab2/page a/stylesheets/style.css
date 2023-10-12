@@ -1,0 +1,65 @@
+body{
+padding : 0;
+    font-family: Tahoma,Arial,sans-serif ;
+    background-color: white;
+}
+<!-- Phan1 -->
+.pixfort_normal_1{
+    background-color: white;
+
+} #section_normal_1 {
+    height: 50px;
+    padding :0;
+    margin : 0;
+}
+.one-third column alpha img {
+    width:100%;
+
+}
+.two-thirds column omega a {
+    float:left;
+}
+.slow_fade social_button{
+    color: blue;
+    float:left;
+
+}
+a{
+    text-align: right;
+}
+
+.editContent{
+    float:left;
+}
+
+<!-- Phan2 -->
+.big_padding dark pix_builder_bg{
+
+}
+#section_normal_4_2{
+    background-color: red;
+    height : 600px;
+
+}
+
+
+<!-- Phan3 -->
+.pixfort_normal_1{
+
+}
+#section_normal_6{
+    background-color: white;
+    height:400px;
+}
+
+<!-- Phan4 -->
+.pixfort_agency_14{
+
+}
+#section_agency_5{
+    background-color: red;
+    height:200px;
+
+
+}
+
